@@ -1,3 +1,7 @@
+👨‍💻 Author
+
+HarmeetKaur31
+
 # AWS Three Tier Web Architecture
 
 This project demonstrates a **3-tier AWS architecture** with secure networking and separation of concerns.
@@ -124,3 +128,8 @@ This project demonstrates a **3-tier AWS architecture** with secure networking a
 ```bash
 ssh -i key.pem ec2-user@<bastion-public-ip>
 ssh ec2-user@<app-private-ip>
+
+
+
+
+
